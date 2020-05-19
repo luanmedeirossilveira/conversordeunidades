@@ -1,6 +1,4 @@
-<p align="center">
-  # Conversor de Milhas para Metros
-</p>
+# Conversor de Milhas para Metros
 
 # 🔭 Projeto 
 * Aplicado em conjunto ao curso FullStack Master.
